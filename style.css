@@ -1,0 +1,27 @@
+/*layout design*/
+
+.body{
+	width: 1000px;
+	color: green;
+	justify-content: center;
+}
+
+	
+
+.head{display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	}
+
+.b{margin-left: auto;
+}
+.contact{
+	text-align: center;
+}
+.c{display: flex;
+	justify-content: center;}
+.logo{justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	
+
