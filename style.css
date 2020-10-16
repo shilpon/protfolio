@@ -25,3 +25,7 @@
 	flex-wrap: wrap;
 	
 
+.ani{justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+}
